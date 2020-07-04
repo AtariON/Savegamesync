@@ -1,0 +1,8 @@
+First-Line
+Second-Line
+Third-Line
+
+
+#First-Line = HOST
+#Second-Line = USERNAME
+#Third-Line = PASSWORT
