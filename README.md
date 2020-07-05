@@ -57,11 +57,11 @@ Virtualboy
 #Colecovision und NDS wird später ergänzt
 
 
-##################################################################################################################################
+############################################################################################################
 
 #####English#####
+
 Small script for a backup of your savegames.
-Kleines Script für ein Backup eurer Savegames.
 
 I wrote the little TOOL to transfer my SAVEGAMES from my stationary Raspbery Pi, which depends on my TV, to my Raspberry Handheldsystem. Or the other way around. 
 To be up to date with the SAVEGAMES on any System.
