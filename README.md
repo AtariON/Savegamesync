@@ -8,7 +8,7 @@ Das kleine TOOL habe ich geschrieben um meine SAVEGAMES von meinem Stationären 
 
 Die Intention dahinter war eine Art Nintendo Switch Mobilität zu ermöglichen.
 
-Version 1.2
+#Version 1.2#
 
 Unterstützt:
 
@@ -57,7 +57,7 @@ Virtualboy
 #Colecovision und NDS wird später ergänzt
 
 
-############################################################################################################
+###########################################################################################################
 
 #####English#####
 
@@ -69,7 +69,7 @@ To be up to date with the SAVEGAMES on any System.
 
 The intention was to enable a kind of Nintendo Switch mobility.
 
-Version 1.2
+#Version 1.2#
 
 supported:
 
