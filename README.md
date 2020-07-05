@@ -13,8 +13,28 @@ Version 1.2
 Unterstützt:
 
 Atari 2600
+
 Atari 7800
+
 Atari Lynx
-Colecovision
+
+Gameboy
+
+Gameboy Color
+
+Gameboy Advance
+
+Intelvision
+
+NeoGeo
+
+NeoGeo Poket / Color
+
 Playstation
+
 PSP
+
+Vextrex
+
+Virtualboy
+
